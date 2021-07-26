@@ -38,7 +38,7 @@ This is html based so you can custommize it
 ***
 
 ### CUSTOM CATEGORY
-I used gradient GradientDrawable & the shader of the name to customize it.
+I used GradientDrawable & the shader of the name to customize it.
 
 ![Category](https://user-images.githubusercontent.com/80063088/127002284-13baed41-277d-47a7-9af3-393a78e5d0a9.PNG)
 ***
