@@ -1,7 +1,6 @@
 # Summary - GUI
 
-This is the old gui i had back then this is a LGL's Menu Version 1.9
-
+### This is the old gui i had back then this is a LGL's Menu Version 1.9 you can use this to change to the current LGL versions.
 Here is the gui in action i made this gui a bit better then the old one
 
 [MOD MENU VIDEO](https://www.youtube.com/watch?v=eWg2Qx1yQxY&t=157s)
@@ -15,6 +14,7 @@ Here is the gui in action i made this gui a bit better then the old one
 ![Slider](https://user-images.githubusercontent.com/80063088/127000761-28a796ae-dcff-4b27-b7b3-fe57816428d2.PNG)
 ***
 ### SHADER NAME
+[Credits to OctoWolve for this](https://github.com/Octowolve/Hooking-Template-With-Mod-Menu)
 ```
 TextView title = new TextView(this);
 int start = Color.parseColor("#000000");
@@ -30,5 +30,11 @@ title.getPaint().setShader(shader);
 This is html based so you can custommize it
 
 ![Desc](https://user-images.githubusercontent.com/80063088/127000746-2ba0fdd0-872c-4914-a692-c55ea159ad97.png)
+***
+
+### CUSTOM CATEGORY
+I used gradient GradientDrawable & the shader of the name to customize it.
+
+![Category](https://user-images.githubusercontent.com/80063088/127002284-13baed41-277d-47a7-9af3-393a78e5d0a9.PNG)
 ***
 
