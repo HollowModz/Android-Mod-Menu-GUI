@@ -16,6 +16,11 @@ https://user-images.githubusercontent.com/80063088/127003597-8701cd24-dfd3-4a23-
 ***
 
 ### CUSTOM SLIDER
+
+```
+seekBar.getProgressDrawable().setColorFilter(Color.parseColor("#FF1112"), PorterDuff.Mode.MULTIPLY);
+seekBar.getThumb().setColorFilter(Color.parseColor("#FF1112"), PorterDuff.Mode.SCREEN);
+```
 ![Slider](https://user-images.githubusercontent.com/80063088/127000761-28a796ae-dcff-4b27-b7b3-fe57816428d2.PNG)
 ***
 ### SHADER NAME
